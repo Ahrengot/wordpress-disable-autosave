@@ -1,4 +1,4 @@
-# Disable autosave plugin for WordPress
+# Disable Autosave Plugin
 
 ### How it works
-Simply activate the plugin and the autosave script won't be loaded in the editor.
+Simply download and activate the plugin. After that the autosave script won't be loaded in the editor.

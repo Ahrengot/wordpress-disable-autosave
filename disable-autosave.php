@@ -1,7 +1,7 @@
 <?php
 /*
  Plugin Name: Disable Autosave
- Plugin URI: http://lopo.it/duplicate-post-plugin/
+ Plugin URI: https://github.com/Ahrengot/wordpress-disable-autosave
  Description: Disabled the autosave feature in WordPress.
  Version: 1.0
  Author: Jens Ahrengot Boddum
